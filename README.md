@@ -22,7 +22,7 @@
 
 | # | 공부 날짜  | 디자인패턴 |             링크             |
 | :--: | :--------: | :-------: | :--------------------------: |
-| #1 | 2021-08-16 | Singletone | | [:link:](DesignPattern/#01.Singleton.md)) |
+| #1 | 2021-08-16 | Singleton | | [:link:](DesignPattern_md/#01.Singleton.md)) |
 
 
 <div align="center">
