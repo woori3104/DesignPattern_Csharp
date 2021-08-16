@@ -6,10 +6,6 @@
 ![Type](https://img.shields.io/badge/-designPattern-orange)
 ![Start Date](https://img.shields.io/badge/Start%20Date-2021--08--16-23d16b.svg)
 
-
-
-## Goal
-
 </div>
 
 ## 목표
