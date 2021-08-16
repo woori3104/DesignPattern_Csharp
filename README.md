@@ -2,8 +2,6 @@
 <div align="center">
 
 <h3> WOORI KIM </h3>
-<p> Diva Corp </p>
-<p> Reference : https://www.notion.so/c3f30f2dcdb443f1b27abe06936637a1?v=202b20fd9cf94c18bdb9dc18ca84507e </p>
 
 ![Type](https://img.shields.io/badge/-designPattern-orange)
 ![Start Date](https://img.shields.io/badge/Start%20Date-2021--08--16-23d16b.svg)
